@@ -1,11 +1,3 @@
-# Employee Management System (EMS)
-
-### Technical Assessment for Kloudspot India Private Limited
-**Position:** Software Engineer / Backend (Freshers)  
-**Technical Point of Contact:** Manjunatha (`manjunatha.v@kloudspot.com`)  
-**HR Recipient:** HR Team (`hr.team@kloudspot.com`)  
-
----
 
 ## 1. Project Overview
 
