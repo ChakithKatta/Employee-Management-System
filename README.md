@@ -319,3 +319,6 @@ Employee Management System/
 - **Candidate Submission:** Source code and deliverables in project root.
 - **Recipient:** `manjunatha.v@kloudspot.com`
 - **Mandatory HR Recipient:** `hr.team@kloudspot.com`
+
+## 10.project photos
+
