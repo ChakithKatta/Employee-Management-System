@@ -310,43 +310,42 @@ Employee Management System/
 ├── postman_collection.json (Preconfigured Postman API collection)
 ├── start.bat (One-click Windows starter)
 └── README.md
+```
 
-## 9. project photos
+---
 
+## 9. Submission Details
 
+- **Candidate Submission:** Source code and deliverables in project root.
+- **Recipient:** `manjunatha.v@kloudspot.com`
+- **Mandatory HR Recipient:** `hr.team@kloudspot.com`
 
-📸 Project Screenshots
+---
 
-1. Login Page
+## 10. Application Screenshots / Project Photos
 
-"Login Page" (images/login.png)
+Here are the application screenshots showing the working system:
 
-2. Dashboard
+### 1. Administrator Login
+![Administrator Login](images/login.png)
 
-"Dashboard" (images/dashboard.png.png)
+### 2. Main Dashboard & Employee Directory
+![Main Dashboard & Employee Directory](images/dashboard.png.png)
 
-3. Department Added
+### 3. Add Employee Form
+![Add Employee](images/employee%20added.png)
 
-"Department Added" (images/department 20added.png)
+### 4. Edit Employee Information
+![Edit Employee](images/employee%20updation.png)
 
-4. Department Column
+### 5. Delete Employee Confirmation Safeguard
+![Delete Employee Confirmation](images/employee%20deletion.png)
 
-"Department Column" (images/department%20column.png)
+### 6. Filtered Employee List (Inactive Status)
+![Inactive Employee List](images/inactive%20list.png)
 
-5. Employee Added
+### 7. Department Management Overview
+![Department Overview](images/department%20column.png)
 
-"Employee Added" (images/employee%20added.png)
-
-6. Employee Deletion
-
-"Employee Deletion" (images/employee%20deletion.png)
-
-7. Employee Updation
-
-"Employee Updation" (images/employee%20updation.png)
-
-8. Inactive Employee List
-
-"Inactive Employee List" (images/inactive%20list.png)
-
-
+### 8. Add Department Modal
+![Add Department](images/department%20added.png)
