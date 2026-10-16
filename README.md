@@ -1,7 +1,7 @@
 
 ## 1. Project Overview
 
-The **Employee Management System (EMS)** is a full-stack, enterprise-grade web application designed for administrators to manage organizational employee records seamlessly. The application features a responsive React user interface, RESTful APIs implemented in Spring Boot, Spring Data JPA persistence (with zero-configuration embedded H2 and pluggable MySQL support), interactive Swagger/OpenAPI documentation, unit testing with JUnit 5 & Mockito, CSV export, department management, and administrative authentication.
+The **Employee Management System (EMS)** is a full-stack, enterprise-grade web application designed for administrators to manage organizational employee records seamlessly. The application features a responsive React user interface, RESTful APIs implemented in Spring Boot, Spring Data JPA persistence with MySQL relational database storage, interactive Swagger/OpenAPI documentation, unit testing with JUnit 5 & Mockito, CSV export, department management, and administrative authentication.
 
 ---
 
@@ -12,8 +12,8 @@ The **Employee Management System (EMS)** is a full-stack, enterprise-grade web a
   - Spring Boot 3.2.5
   - Spring Data JPA / Hibernate
   - Maven 3.9+
-  - H2 Database (Default: zero-config instant local execution)
-  - MySQL 8.0 (Supported via profile `application-mysql.yml` & Docker)
+  - MySQL 8.0 (Primary relational database)
+  - MySQL Connector/J 8.0 (Persistent relational data storage)
   - SpringDoc OpenAPI 2.3.0 (Interactive Swagger UI documentation)
 - **Frontend:**
   - React 18
@@ -82,7 +82,7 @@ Prerequisites: **Java 17 or later**
 2. Open your web browser:
    - **Web Application UI:** [http://localhost:8080](http://localhost:8080)
    - **Swagger / OpenAPI Documentation:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-   - **H2 Database Console:** [http://localhost:8080/h2-console](http://localhost:8080/h2-console) (JDBC URL: `jdbc:h2:mem:emsdb`, User: `sa`, Password: *(empty)*)
+   - **MySQL Database:** Connected on `localhost:3306`, database `ems_db`
 
 ---
 
