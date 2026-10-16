@@ -311,8 +311,9 @@ Employee Management System/
 ├── start.bat (One-click Windows starter)
 └── README.md
 
-## 10.project photos
-Project Screenshots
+## 9. project photos
+
+
 
 📸 Project Screenshots
 
@@ -326,7 +327,7 @@ Project Screenshots
 
 3. Department Added
 
-"Department Added" (images/department%20added.png)
+"Department Added" (images/department 20added.png)
 
 4. Department Column
 
