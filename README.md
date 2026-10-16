@@ -310,15 +310,42 @@ Employee Management System/
 ├── postman_collection.json (Preconfigured Postman API collection)
 ├── start.bat (One-click Windows starter)
 └── README.md
-```
-
----
-
-## 9. Submission Details
-
-- **Candidate Submission:** Source code and deliverables in project root.
-- **Recipient:** `manjunatha.v@kloudspot.com`
-- **Mandatory HR Recipient:** `hr.team@kloudspot.com`
 
 ## 10.project photos
+Project Screenshots
+
+📸 Project Screenshots
+
+1. Login Page
+
+"Login Page" (images/login.png)
+
+2. Dashboard
+
+"Dashboard" (images/dashboard.png.png)
+
+3. Department Added
+
+"Department Added" (images/department%20added.png)
+
+4. Department Column
+
+"Department Column" (images/department%20column.png)
+
+5. Employee Added
+
+"Employee Added" (images/employee%20added.png)
+
+6. Employee Deletion
+
+"Employee Deletion" (images/employee%20deletion.png)
+
+7. Employee Updation
+
+"Employee Updation" (images/employee%20updation.png)
+
+8. Inactive Employee List
+
+"Inactive Employee List" (images/inactive%20list.png)
+
 
