@@ -314,15 +314,10 @@ Employee Management System/
 
 ---
 
-## 9. Submission Details
-
-- **Candidate Submission:** Source code and deliverables in project root.
-- **Recipient:** `manjunatha.v@kloudspot.com`
-- **Mandatory HR Recipient:** `hr.team@kloudspot.com`
 
 ---
 
-## 10. Application Screenshots / Project Photos
+## 9. Application Screenshots / Project Photos
 
 Here are the application screenshots showing the working system:
 
